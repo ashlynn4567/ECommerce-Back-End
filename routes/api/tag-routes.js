@@ -79,6 +79,7 @@ router.delete('/:id', (req, res) => {
         res.status(404).json({ message: "No existing tag with this ID!" });
         return;
       };
+      res.json(tag);
     })
     .catch(err => res.status(500).json(err));
 });
