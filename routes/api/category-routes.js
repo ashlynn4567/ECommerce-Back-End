@@ -56,6 +56,7 @@ router.put('/:id', (req, res) => {
     .then(updatedCategory => {
       if(!updatedCategory) {
         res.status(404),json({ message: "No existing category with this ID!" });
+        return;
       };
       res.json(updatedCategory);
     })
@@ -73,6 +74,7 @@ router.delete('/:id', (req, res) => {
     .then(category => {
       if(!category) {
         res.status(400).json({ message: "No existing category with this ID!" });
+        return;
       };
       res.json(category);
     })
