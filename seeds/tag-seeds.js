@@ -1,3 +1,4 @@
+// imports
 const { Tag } = require('../models');
 
 const tagData = [
@@ -29,4 +30,5 @@ const tagData = [
 
 const seedTags = () => Tag.bulkCreate(tagData);
 
+// exports
 module.exports = seedTags;
