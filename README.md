@@ -141,7 +141,7 @@ In the future, I would like to add the following improvements:
 
 - Although this project was created with a focus on back-end, I would love to connect it to a working front-end to make it a full stack application.
 
-I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach our development team at the links below.
+I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach me at the links below.
 
 - <a href="mailto:ashlynn4567@gmail.com">Email</a>
 - <a href="https://github.com/ashlynn4567">GitHub</a>
