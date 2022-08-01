@@ -13,7 +13,7 @@
 
 ## Description
 
-This is my thirteenth challenge assignment for the University of Oregon Coding Bootcamp 2022. In this challenge, I use Sequelize, Express.js, and MySQL to build data structures from the server-side api to the database.
+ECommerce Back-End is a back-end application that utilizes Sequelize, Express.js, and MySQL to build data structures from the server-side api to the database.
 
 This application was refactored from a working application that used Express.js to using Sequelize to interact with a MySQL database instead. Working on this application gave me an understanding of how e-commerce platforms work to provide a suite of services using a relational database like SQL.
 
